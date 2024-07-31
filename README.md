@@ -1,6 +1,11 @@
 # Calculadora Binária (CLI only)
 ## Projeto realizado durante graduação no ensino superior técnologo em Gestão de T.I
 
+A Calculadora Binária é uma ferramenta essencial para todos que lidam com sistemas 
+numéricos. Sua simplicidade e funcionalidade tornam o aprendizado e a aplicação 
+prática de conceitos numéricos muito mais acessíveis. Explore todas as 
+funcionalidades e aproveite ao máximo esta poderosa ferramenta.
+
 #### Bases utilizadas:
 
 - Binário
